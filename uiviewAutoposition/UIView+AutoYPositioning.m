@@ -9,17 +9,18 @@
 #import "UIView+AutoYPositioning.h"
 
 
-/*****************************************************************************************************/
+/******************************************** RULES **************************************************/
 
-// /!\ NOT FORGET INTEGER BETWEEN TWO YINDEX
+// - NOT FORGET INTEGER BETWEEN TWO YINDEX
 // i.e : v1.YIndex = 0, v2.YIndex = 1, v3.YIndex = 2 (And not 10 or 99 or more) */
 
-// /!\ START THE YINDEX TO "0" */
+// - START THE YINDEX TO "0" */
 
-// /!\ 100 SUBVIEWS MAXIMUM
+// - 100 SUBVIEWS MAXIMUM
+
+// - NOT TAG A VIEW YOU WANT POSITIONED
 
 /*****************************************************************************************************/
-
 
 static const NSUInteger START_INTERVAL_Y = 94783;
 static const NSUInteger END_INTERVAL_Y = 94883;

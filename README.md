@@ -1,7 +1,7 @@
 UIView-AutoYPositioning
 =======================
 
-A simple way to stack dynamic UIView. 
+UIView Categorie that provides a simple way to stack dynamic UIView. 
 
 
 ![Exemple](http://romito.fr/public/images/UIView+AutoYPositioning.jpg)
